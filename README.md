@@ -1,2 +1,2 @@
 # Assignments
-my excelr assignments
+Excelr Assignments
