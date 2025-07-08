@@ -1,2 +1,1 @@
-# Assignments
-Excelr Assignments
+# Mini Projects
